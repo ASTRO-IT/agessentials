@@ -1,0 +1,6 @@
+name: Agessentials
+version: '${project.version}'
+main: dev.astrogames.agessentials.Agessentials
+api-version: 1.19
+authors: [ Lukas, Anton ]
+description: Main Essentials Plugin - AstroGames
